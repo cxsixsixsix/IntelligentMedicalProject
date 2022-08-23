@@ -9,9 +9,9 @@
 
  <!--配置父级依赖：Medical Parent [BEGIN]-->
   <parent>
-    <groupId>cn.ekgc.medical</groupId>
+    <groupId>com.whackon.medical</groupId>
     <artifactId>medical-parent</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
   </parent>
  <!--配置父级依赖：Medical Parent [END]-->
   <properties>
