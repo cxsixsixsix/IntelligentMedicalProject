@@ -25,7 +25,44 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-openfeign</artifactId>
     </dependency>
-  </dependencies>
-  <!--配置依赖：Spring Cloud Starter OpenFeig[END]-->
+    <!--配置依赖：Spring Cloud Starter OpenFeig[END]-->
 
+    <!--配置依赖: Spring Boot Start Data Redis[BEGIN]-->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-data-redis</artifactId>
+    </dependency>
+    <!--配置依赖: Spring Boot Start Data Redis[END]-->
+
+    <!--配置依赖：Project Lombok[BEGIN]-->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>${lombok.version}</version>
+    </dependency>
+    <!--配置依赖：Project Lombok[END]-->
+
+    <!--配置依赖：MapStruct Processor[BEGIN]-->
+    <dependency>
+      <groupId>org.mapstruct</groupId>
+      <artifactId>mapstruct-processor</artifactId>
+      <version>${mapstruct-processor.version}</version>
+    </dependency>
+    <!--配置依赖：MapStruct Processor[END]-->
+
+    <!--配置依赖：Hutool All[BEGIN]-->
+    <dependency>
+      <groupId>cn.hutool</groupId>
+      <artifactId>hutool-all</artifactId>
+      <version>${hutool-all.version}</version>
+    </dependency>
+    <!--配置依赖：Hutool All[END]-->
+
+    <!--配置依赖：Spring Boot Starter Validation[BEGIN]-->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-validation</artifactId>
+    </dependency>
+    <!--配置依赖：Spring Boot Starter Validation[END]-->
+  </dependencies>
 </project>
