@@ -1,5 +1,7 @@
 package com.whackon.medical.base.pojo.vo;
 
+import lombok.Data;
+
 import java.io.Serializable;
 import java.util.Date;
 

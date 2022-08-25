@@ -1,6 +1,7 @@
 package com.whackon.medical.base.pojo.vo;
 
 import com.whackon.medical.base.pojo.enums.ResponseEnum;
+import lombok.Data;
 
 import java.io.Serializable;
 

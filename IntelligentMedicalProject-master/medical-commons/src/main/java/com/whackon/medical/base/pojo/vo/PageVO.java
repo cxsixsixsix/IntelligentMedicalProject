@@ -1,6 +1,7 @@
 package com.whackon.medical.base.pojo.vo;
 
 import com.whackon.medical.base.util.BaseConstants;
+import lombok.Data;
 
 import java.io.Serializable;
 import java.util.List;
