@@ -1,0 +1,10 @@
+##########配置项目启动端口号
+server:
+  port: 44449
+spring:
+  ########## 配置项目启动名
+  application:
+    name: medical-clinic-provider
+  ########## 配置项目加载文件
+  profiles:
+    active: data, commons
