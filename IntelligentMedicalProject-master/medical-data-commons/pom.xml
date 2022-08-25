@@ -41,6 +41,17 @@
       <artifactId>druid-spring-boot-starter</artifactId>
       <version>${druid-spring-boot-starter.version}</version>
     </dependency>
+    <!--配置依赖: MyBatis Plus [BEGIN]-->
+    <dependency>
+      <groupId>com.baomidou</groupId>
+      <artifactId>mybatis-plus-boot-starter</artifactId>
+      <version>${mybatis-plus-boot-starter.version}</version>
+    </dependency>
+    <!--配置依赖: MyBatis Plus [END]-->
+
+
+
   </dependencies>
+
 
 </project>
