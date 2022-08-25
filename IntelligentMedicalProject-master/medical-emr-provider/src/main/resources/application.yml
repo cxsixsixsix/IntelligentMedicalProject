@@ -1,0 +1,10 @@
+########### 配置项目启动端口号
+server:
+  port: 22229
+spring:
+  ############### 配置项目应用名
+  application:
+    name: medical-emr-provider
+  #########  配置项目加载配置文件
+  profiles:
+    active: date,commons
