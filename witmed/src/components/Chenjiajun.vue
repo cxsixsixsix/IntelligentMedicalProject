@@ -1,14 +1,16 @@
 <template>
   <div id="app">
-    <router-view/>
+    <h1>大家好，我叫陈家骏！</h1>
+
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: "Chenjiajun"
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>
