@@ -1,4 +1,4 @@
-package com.whackon.medical.base.pojo.entity.emr;
+package com.whackon.medical.system.position.pojo.entity;
 
 /**
  * <b></b>
